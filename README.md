@@ -1,1 +1,1 @@
-# Zero-To-DApp
+# Zero-To-DApp Workshop
